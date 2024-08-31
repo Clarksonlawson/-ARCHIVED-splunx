@@ -1,0 +1,12 @@
+D:\splunx\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\splunx\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\splunx\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\splunx\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\splunx\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\splunx\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Loading.resources
+D:\splunx\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\splunx\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\splunx\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\splunx\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\splunx\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\splunx\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
